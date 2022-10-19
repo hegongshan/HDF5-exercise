@@ -1,0 +1,13 @@
+# swap files
+*.swp
+
+# executable files
+*.o
+*.out
+
+# HDF5 files
+*.h5
+
+# editor files
+.vscode
+
