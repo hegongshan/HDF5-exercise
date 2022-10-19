@@ -1,12 +1,15 @@
 # swap files
 *.swp
 
-# executable files
+# target files
 *.o
+
+# executable files
 *.out
 
 # HDF5 files
 *.h5
+*.hdf5
 
 # editor files
 .vscode
